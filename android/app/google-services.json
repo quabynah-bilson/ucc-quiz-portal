@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097787238772",
+    "project_id": "ucc-quiz-portal",
+    "storage_bucket": "ucc-quiz-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097787238772:android:8ed45ccc8311a2d783a421",
+        "android_client_info": {
+          "package_name": "gh.edu.ucc.quiz.portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7PtJ6OrKi4URoKXMk4YhDoOwn89GlRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097787238772:android:8423866a69ec6a3483a421",
+        "android_client_info": {
+          "package_name": "io.moniebill.ucc_quiz_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7PtJ6OrKi4URoKXMk4YhDoOwn89GlRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
